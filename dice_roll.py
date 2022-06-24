@@ -1,3 +1,5 @@
+# random không phải là ngẫu nhiên mà nó có thuật toán, seed là một ví dụ cho thuật toán đó
+
 from tkinter import *
 import random
 from unittest import result
